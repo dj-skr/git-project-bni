@@ -10,4 +10,6 @@ baris 2
 
 penambahan line untuk testing pull
 
-penambahan line baru lagi untuk test push
+penmabahan line baru lagi untuk test conflict
+
+**coba lagi**
